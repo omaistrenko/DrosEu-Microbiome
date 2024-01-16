@@ -1,4 +1,4 @@
-# plan for DrosEu-micrbiome project 
+# plan for DrosEu-microbiome project 
 Three main directions/manuscripts:
 1) Wolbachia.
 2) Community ecology and global microbiome (Prokaryotes & Eukaryotes) in D. melanogaster.
