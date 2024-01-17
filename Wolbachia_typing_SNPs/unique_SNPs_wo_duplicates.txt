@@ -1,0 +1,239 @@
+AE017196.1_wMelREF	wMel	wMel2_a	wMel2_b	wMel3	wMelPop	wMelCS_a	wMelCS_b	wMelCS2_a	wMelCS2_b	index_forMERG	SNP pattern	sequence_1_PosInContg	Genome	Position	Reference	Clade_I_II_III	Clade_IV	Clade_V	Clade_VI	Private	Private_in_clade	unique_SNP	genotype_with_unique_SNP	SNP_wo_duplicates	Genotype 
+A	A	A	A	A	G	G	G	G	G	0	AAAAAGGGGG	15742													
+G	G	G	G	G	G	G	G	A	A	1	GGGGGGGGAA	18175												A	wMelCS2_a
+A	A	A	A	A	G	G	G	G	G	2	AAAAAGGGGG	18552	Wolbachia	18552	A	A	A	A	G	G	Clade_VI				
+G	G	G	G	G	A	A	A	A	A	3	GGGGGAAAAA	25603													
+G	G	G	G	G	A	A	A	A	A	4	GGGGGAAAAA	26870	Wolbachia	26870	G	G	G	G	A	A	Clade_VI				
+C	C	C	C	C	T	T	T	T	T	5	CCCCCTTTTT	36114	Wolbachia	36114	C	C	C	C	T	T	Clade_VI				
+A	A	A	A	A	C	C	C	C	C	6	AAAAACCCCC	39135	Wolbachia	39135	A	A	A	A	C	C	Clade_VI				
+A	A	A	A	A	G	G	G	G	G	7	AAAAAGGGGG	45207	Wolbachia	45207	A	A	G	G	G	A	Clade_I_II_III				
+C	C	C	C	C	T	T	T	T	T	8	CCCCCTTTTT	45292	Wolbachia	45292	C	C	C	C	T	T	Clade_VI				
+A	A	A	A	A	C	A	A	A	A	9	AAAAACAAAA	52601										C	wMelPop	C	wMelPop
+A	A	G	G	A	A	A	A	A	A	10	AAGGAAAAAA	52842												G	wMel2_a
+A	A	G	G	A	A	A	A	A	A	11	AAGGAAAAAA	52919												G	wMel2_a
+G	G	A	A	G	A	A	A	A	A	12	GGAAGAAAAA	54973													
+A	A	A	A	A	G	G	G	G	G	13	AAAAAGGGGG	65076													
+A	A	A	A	A	G	G	G	G	G	14	AAAAAGGGGG	69287	Wolbachia	69287	A	A	A	A	G	G	Clade_VI				
+G	G	G	G	G	A	A	A	A	A	15	GGGGGAAAAA	79898	Wolbachia	79898	G	G	G	G	A	A	Clade_VI				
+A	A	A	A	A	G	G	G	G	G	16	AAAAAGGGGG	89970													
+T	T	T	T	T	C	C	C	C	C	17	TTTTTCCCCC	94978	Wolbachia	94978	T	T	T	T	C	C	Clade_VI				
+T	T	T	T	T	G	G	G	G	G	18	TTTTTGGGGG	109211													
+C	C	C	C	C	T	T	T	T	T	19	CCCCCTTTTT	118051													
+A	A	A	A	A	G	G	G	G	G	20	AAAAAGGGGG	118692													
+A	A	A	A	A	G	G	G	G	G	21	AAAAAGGGGG	119806													
+T	T	C	C	T	C	C	C	C	C	22	TTCCTCCCCC	139161													
+C	C	T	T	C	C	C	C	C	C	23	CCTTCCCCCC	149923												T	wMel2_a
+T	T	T	T	T	A	A	A	A	A	24	TTTTTAAAAA	151274	Wolbachia	151274	T	T	T	T	A	A	Clade_VI				
+C	C	T	T	C	C	C	C	C	C	25	CCTTCCCCCC	153665												T	wMel2_a
+T	T	G	G	T	G	G	G	G	G	26	TTGGTGGGGG	164590	Wolbachia	164590	T	T	G	G	G	T	Clade_I_II_III				
+C	C	C	C	C	T	T	T	T	T	27	CCCCCTTTTT	173865													
+G	G	G	G	G	A	A	A	A	A	28	GGGGGAAAAA	183394													
+G	G	T	T	G	T	T	T	T	T	29	GGTTGTTTTT	200034													
+G	G	G	G	G	A	A	A	A	A	30	GGGGGAAAAA	201340													
+C	C	C	C	C	T	T	T	T	T	31	CCCCCTTTTT	203561	Wolbachia	203561	C	C	C	C	T	T	Clade_VI				
+T	T	T	T	T	C	C	C	C	C	32	TTTTTCCCCC	204413	Wolbachia	204413	T	T	C	C	C	T	Clade_I_II_III				
+G	G	G	A	G	G	G	G	G	G	33	GGGAGGGGGG	227907										A	wMel2_b		
+G	G	G	T	G	G	G	G	G	G	34	GGGTGGGGGG	227981										T	wMel2_b		
+C	C	T	C	C	C	C	C	C	C	35	CCTCCCCCCC	235518										T	wMel2_a	T	wMel2_a
+G	G	G	G	G	A	A	A	A	A	36	GGGGGAAAAA	248476													
+A	A	A	A	A	G	G	G	G	G	37	AAAAAGGGGG	273138	Wolbachia	273138	A	A	A	A	G	G	Clade_VI				
+G	G	G	G	G	A	A	A	A	A	38	GGGGGAAAAA	278050													
+G	G	G	G	G	A	A	A	A	A	39	GGGGGAAAAA	287099	Wolbachia	287099	G	G	G	G	A	A	Clade_VI				
+G	G	G	A	G	G	G	G	G	G	40	GGGAGGGGGG	289140										A	wMel2_b		
+C	C	C	C	C	T	T	T	C	C	41	CCCCCTTTCC	297946													
+G	G	A	A	G	A	A	A	A	A	42	GGAAGAAAAA	334514													
+G	G	G	G	G	A	A	A	A	A	43	GGGGGAAAAA	346902	Wolbachia	346902	G	G	A	A	A	G	Clade_I_II_III				
+C	C	C	C	C	T	T	T	T	T	44	CCCCCTTTTT	347096	Wolbachia	347096	C	C	C	C	T	T	Clade_VI				
+C	C	T	T	C	C	C	C	C	C	45	CCTTCCCCCC	361292												T	wMel2_a
+G	G	A	A	G	G	G	G	G	G	46	GGAAGGGGGG	366812												A	wMel2_a
+A	A	A	A	A	G	G	G	G	G	47	AAAAAGGGGG	372405													
+T	T	T	T	T	C	C	C	C	C	48	TTTTTCCCCC	381187	Wolbachia	381187	T	T	T	T	C	C	Clade_VI				
+A	A	A	A	A	G	G	G	G	G	49	AAAAAGGGGG	398613													
+A	A	A	A	A	G	G	G	G	G	50	AAAAAGGGGG	409057	Wolbachia	409057	A	A	A	A	G	G	Clade_VI				
+G	G	A	A	G	G	G	G	G	G	51	GGAAGGGGGG	413456												A	wMel2_a
+G	G	G	G	G	A	A	A	A	A	52	GGGGGAAAAA	414527	Wolbachia	414527	G	G	G	G	A	A	Clade_VI				
+C	C	C	C	C	T	T	T	T	T	53	CCCCCTTTTT	416891													
+C	C	C	C	C	T	T	T	T	T	54	CCCCCTTTTT	427731													
+G	G	A	A	G	G	G	G	G	G	55	GGAAGGGGGG	428774												A	wMel2_a
+A	A	A	A	A	C	C	C	C	C	56	AAAAACCCCC	440973													
+A	A	A	A	A	G	G	G	G	G	57	AAAAAGGGGG	449370	Wolbachia	449370	A	A	A	A	G	G	Clade_VI				
+C	C	C	C	C	T	T	T	T	T	58	CCCCCTTTTT	452129	Wolbachia	452129	C	C	C	C	T	T	Clade_VI				
+T	T	T	T	T	C	C	C	C	C	59	TTTTTCCCCC	463714													
+G	G	G	G	G	G	G	G	T	T	60	GGGGGGGGTT	469816												T	wMelCS2_a
+G	G	G	G	G	G	G	G	A	A	61	GGGGGGGGAA	490402												A	wMelCS2_a
+C	C	T	T	C	C	C	C	C	C	62	CCTTCCCCCC	497170												T	wMel2_a
+C	C	T	T	C	C	C	C	C	C	63	CCTTCCCCCC	505448												T	wMel2_a
+G	G	G	G	G	A	A	A	A	A	64	GGGGGAAAAA	505589													
+C	C	C	C	C	A	A	A	A	A	65	CCCCCAAAAA	506438													
+C	C	C	C	C	T	T	T	T	T	66	CCCCCTTTTT	517457													
+A	A	A	A	A	G	A	A	A	A	67	AAAAAGAAAA	540200										G	wMelPop	G	wMelPop
+C	C	C	C	C	T	T	T	T	T	68	CCCCCTTTTT	547769	Wolbachia	547769	C	C	C	C	T	T	Clade_VI				
+G	G	T	T	G	G	G	G	G	G	69	GGTTGGGGGG	559032												T	wMel2_a
+C	C	T	C	C	C	C	C	C	C	70	CCTCCCCCCC	563305										T	wMel2_a	T	wMel2_a
+G	G	G	G	G	T	T	T	T	T	71	GGGGGTTTTT	571424													
+G	G	G	G	G	T	T	T	T	T	72	GGGGGTTTTT	587192	Wolbachia	587192	G	G	G	G	T	T	Clade_VI				
+T	T	T	T	T	C	C	C	C	C	73	TTTTTCCCCC	588436	Wolbachia	588436	T	T	T	T	C	C	Clade_VI				
+C	C	C	C	C	G	G	G	G	G	74	CCCCCGGGGG	591593													
+G	G	G	G	G	A	A	A	A	A	75	GGGGGAAAAA	598213													
+G	G	T	T	G	T	T	T	T	T	76	GGTTGTTTTT	599593													
+G	G	T	T	G	T	T	T	T	T	77	GGTTGTTTTT	616897													
+T	T	C	C	T	C	C	C	C	C	78	TTCCTCCCCC	619783													
+G	G	G	G	G	T	T	T	T	T	79	GGGGGTTTTT	628654	Wolbachia	628654	G	G	G	G	T	T	Clade_VI				
+T	T	C	C	T	C	C	C	C	C	80	TTCCTCCCCC	629339	Wolbachia	629339	T	T	C	C	C	T	Clade_I_II_III				
+G	G	A	A	G	G	G	G	G	G	81	GGAAGGGGGG	629867												A	wMel2_a
+A	A	A	A	A	G	G	G	G	G	82	AAAAAGGGGG	630778													
+T	T	T	T	T	C	C	C	C	C	83	TTTTTCCCCC	631303													
+C	C	C	C	C	T	T	T	T	T	84	CCCCCTTTTT	650962	Wolbachia	650962	C	C	C	C	T	T	Clade_VI				
+T	T	T	T	T	C	C	C	C	C	85	TTTTTCCCCC	654265	Wolbachia	654265	T	T	C	C	C	T	Clade_I_II_III				
+G	G	A	A	G	A	A	A	A	A	86	GGAAGAAAAA	655839	Wolbachia	655839	G	G	A	A	A	G	Clade_I_II_III				
+T	T	T	G	T	T	T	T	T	T	87	TTTGTTTTTT	694174										G	wMel2_b		
+T	T	T	T	T	C	C	C	C	C	88	TTTTTCCCCC	728880	Wolbachia	728880	T	T	T	T	C	C	Clade_VI				
+C	C	G	G	C	G	G	G	G	G	89	CCGGCGGGGG	730954													
+C	C	C	C	C	G	G	G	G	G	90	CCCCCGGGGG	732864													
+A	A	A	A	A	G	G	G	G	G	91	AAAAAGGGGG	738991													
+T	T	T	T	T	G	G	G	G	G	92	TTTTTGGGGG	739409													
+T	T	T	T	T	C	C	C	C	C	93	TTTTTCCCCC	739559													
+G	G	G	A	G	G	G	G	G	G	94	GGGAGGGGGG	744175										A	wMel2_b		
+G	G	A	A	G	A	A	A	A	A	95	GGAAGAAAAA	752679													
+G	G	G	G	G	A	A	A	G	G	96	GGGGGAAAGG	771939	Wolbachia	771939	G	G	G	G	A	A	Clade_VI				
+A	A	G	G	A	G	G	G	G	G	97	AAGGAGGGGG	776939													
+G	G	G	G	G	C	C	C	C	C	98	GGGGGCCCCC	780933													
+A	A	A	A	A	G	G	G	G	G	99	AAAAAGGGGG	781622	Wolbachia	781622	A	A	G	G	G	A	Clade_I_II_III				
+A	A	G	G	A	G	G	G	G	G	100	AAGGAGGGGG	782436	Wolbachia	782436	A	A	G	G	G	A	Clade_I_II_III				
+C	C	T	T	C	T	T	T	T	T	101	CCTTCTTTTT	783958													
+G	G	A	G	G	G	G	G	G	G	102	GGAGGGGGGG	798503										A	wMel2_a	A	wMel2_a
+A	A	G	G	A	G	G	G	G	G	103	AAGGAGGGGG	802254	Wolbachia	802254	A	A	G	G	G	A	Clade_I_II_III				
+T	T	C	C	T	T	T	T	T	T	104	TTCCTTTTTT	802632												C	wMel2_a
+G	G	G	G	G	A	A	A	A	A	105	GGGGGAAAAA	803009	Wolbachia	803009	G	G	A	A	A	G	Clade_I_II_III				
+C	C	A	A	C	C	C	C	C	C	106	CCAACCCCCC	803701												A	wMel2_a
+G	G	G	G	G	A	A	A	A	A	107	GGGGGAAAAA	805011													
+G	G	G	G	G	C	C	C	C	C	108	GGGGGCCCCC	805888													
+T	T	G	G	T	G	G	G	G	G	109	TTGGTGGGGG	807883													
+G	G	G	G	G	A	A	A	A	A	110	GGGGGAAAAA	811613	Wolbachia	811613	G	G	G	G	A	A	Clade_VI				
+A	A	A	A	A	G	G	G	G	G	111	AAAAAGGGGG	812321													
+T	T	T	C	T	T	T	T	T	T	112	TTTCTTTTTT	816002										C	wMel2_b		
+C	C	C	C	C	G	G	G	G	G	113	CCCCCGGGGG	830307													
+A	A	A	A	A	G	G	G	G	G	114	AAAAAGGGGG	838894	Wolbachia	838894	A	A	A	A	G	G	Clade_VI				
+A	A	A	A	A	G	G	G	G	G	115	AAAAAGGGGG	840037													
+C	C	C	C	C	A	A	A	A	A	116	CCCCCAAAAA	864943	Wolbachia	864943	C	C	C	C	A	A	Clade_VI				
+G	G	G	G	G	A	A	A	A	A	117	GGGGGAAAAA	872208	Wolbachia	872208	G	G	G	G	A	A	Clade_VI				
+T	T	T	T	T	G	G	G	T	T	118	TTTTTGGGTT	872375													
+C	C	T	T	C	C	C	C	C	C	119	CCTTCCCCCC	872553												T	wMel2_a
+C	C	G	G	C	G	G	G	G	G	120	CCGGCGGGGG	881844													
+G	G	G	G	G	A	A	A	A	A	121	GGGGGAAAAA	889384	Wolbachia	889384	G	G	G	G	A	A	Clade_VI				
+G	G	A	A	G	G	G	G	G	G	122	GGAAGGGGGG	895996												A	wMel2_a
+G	G	G	G	G	C	C	C	C	C	123	GGGGGCCCCC	914712													
+A	A	A	A	A	G	G	G	G	G	124	AAAAAGGGGG	917945													
+G	G	G	G	G	A	A	A	A	A	125	GGGGGAAAAA	949888	Wolbachia	949888	G	G	G	G	A	A	Clade_VI				
+C	C	C	T	C	C	C	C	C	C	126	CCCTCCCCCC	966368										T	wMel2_b		
+C	C	T	T	C	C	C	C	C	C	127	CCTTCCCCCC	988514												T	wMel2_a
+C	C	C	C	C	T	T	T	T	T	128	CCCCCTTTTT	988727													
+C	C	C	C	C	G	G	G	G	G	129	CCCCCGGGGG	989918	Wolbachia	989918	C	C	C	C	G	G	Clade_VI				
+T	T	C	C	T	T	T	T	T	T	130	TTCCTTTTTT	1005667												C	wMel2_a
+G	G	G	G	G	A	A	A	A	A	131	GGGGGAAAAA	1006175													
+G	G	A	A	G	A	A	A	A	A	132	GGAAGAAAAA	1009261													
+C	C	T	T	C	T	T	T	T	T	133	CCTTCTTTTT	1011900													
+C	C	T	T	C	T	T	T	T	T	134	CCTTCTTTTT	1014864													
+T	T	T	T	T	C	C	C	C	C	135	TTTTTCCCCC	1017650													
+A	A	G	G	A	A	A	A	A	A	136	AAGGAAAAAA	1022020												G	wMel2_a
+A	A	A	A	A	G	G	G	G	G	137	AAAAAGGGGG	1024202	Wolbachia	1024202	A	A	A	A	G	G	Clade_VI				
+T	T	C	C	T	C	C	C	C	C	138	TTCCTCCCCC	1027577	Wolbachia	1027577	T	T	C	C	C	T	Clade_I_II_III				
+G	G	A	A	G	A	A	A	A	A	139	GGAAGAAAAA	1031922	Wolbachia	1031922	G	G	A	A	A	G	Clade_I_II_III				
+C	C	T	T	C	T	T	T	T	T	140	CCTTCTTTTT	1046613	Wolbachia	1046613	C	C	T	T	T	C	Clade_I_II_III				
+T	T	T	T	T	C	C	C	C	C	141	TTTTTCCCCC	1048565													
+G	G	G	A	G	G	G	G	G	G	142	GGGAGGGGGG	1067519										A	wMel2_b		
+A	A	A	A	A	G	A	G	A	G	143	AAAAAGAGAG	1069099												G	wMelPop
+T	T	C	C	T	C	C	C	C	C	144	TTCCTCCCCC	1077859													
+T	T	T	T	T	C	C	C	C	C	145	TTTTTCCCCC	1089274													
+T	T	T	T	T	C	C	C	C	C	146	TTTTTCCCCC	1091606													
+A	A	A	A	A	A	A	A	G	G	147	AAAAAAAAGG	1096232												G	wMelCS2_a
+T	A	A	A	A	A	A	A	A	A	148	TAAAAAAAAA	1097797													
+A	A	G	G	A	A	A	A	A	A	149	AAGGAAAAAA	1098883												G	wMel2_a
+T	T	C	C	T	C	C	C	C	C	150	TTCCTCCCCC	1107862	Wolbachia	1107862	T	T	C	C	C	T	Clade_I_II_III				
+C	C	A	A	C	C	C	C	C	C	151	CCAACCCCCC	1114986												A	wMel2_a
+T	T	C	C	T	C	C	C	C	C	152	TTCCTCCCCC	1125117	Wolbachia	1125117	T	T	C	C	C	T	Clade_I_II_III				
+T	T	C	T	T	T	T	T	T	T	153	TTCTTTTTTT	1125563										C	wMel2_a	C	wMel2_a
+G	G	G	G	G	A	A	A	G	G	154	GGGGGAAAGG	1126107	Wolbachia	1126107	G	G	G	G	A	A	Clade_VI				
+T	T	T	T	T	C	C	C	C	C	155	TTTTTCCCCC	1135851													
+T	T	C	C	T	C	C	C	C	C	156	TTCCTCCCCC	1142691													
+T	T	T	T	T	C	C	C	C	C	157	TTTTTCCCCC	1145254	Wolbachia	1145254	T	T	C	C	C	T	Clade_I_II_III				
+G	G	G	G	G	C	C	C	C	C	158	GGGGGCCCCC	1147604	Wolbachia	1147604	G	G	G	G	C	C	Clade_VI				
+T	T	T	T	T	C	C	C	C	C	159	TTTTTCCCCC	1152452													
+C	C	C	C	C	T	T	T	T	T	160	CCCCCTTTTT	1164424													
+G	G	G	G	G	A	A	A	A	A	161	GGGGGAAAAA	1165158													
+C	C	T	C	C	C	C	C	C	C	162	CCTCCCCCCC	1170402										T	wMel2_a	T	wMel2_a
+G	G	A	A	G	G	G	G	G	G	163	GGAAGGGGGG	1171919												A	wMel2_a
+C	C	C	C	C	T	T	T	T	T	164	CCCCCTTTTT	1183214													
+G	G	G	G	G	A	A	A	A	A	165	GGGGGAAAAA	1185021	Wolbachia	1185021	G	G	G	G	A	A	Clade_VI				
+T	T	T	T	T	C	C	C	C	C	166	TTTTTCCCCC	1206452													
+G	G	G	G	G	A	A	A	A	A	167	GGGGGAAAAA	1207767													
+G	G	T	T	G	T	T	T	T	T	168	GGTTGTTTTT	1212319	Wolbachia	1212319	G	G	T	T	T	G	Clade_I_II_III				
+G	G	G	G	G	A	A	A	A	A	169	GGGGGAAAAA	1217973	Wolbachia	1217973	G	G	G	G	A	A	Clade_VI				
+A	A	A	A	A	G	G	G	G	G	170	AAAAAGGGGG	1220566	Wolbachia	1220566	A	A	A	A	G	G	Clade_VI				
+A	A	A	A	A	G	G	G	G	G	171	AAAAAGGGGG	1220989	Wolbachia	1220989	A	A	A	A	G	G	Clade_VI				
+C	C	C	C	C	T	T	T	T	T	172	CCCCCTTTTT	1232581													
+C	C	T	T	C	C	C	C	C	C	173	CCTTCCCCCC	1236915												T	wMel2_a
+C	C	C	C	C	T	T	T	T	T	174	CCCCCTTTTT	1239247													
+C	C	T	T	C	T	T	T	T	T	175	CCTTCTTTTT	1241472													
+C	C	T	T	C	C	C	C	C	C	176	CCTTCCCCCC	1247452												T	wMel2_a
+A	A	A	A	A	G	G	G	G	G	177	AAAAAGGGGG	1247609	Wolbachia	1247609	A	A	A	A	G	G	Clade_VI				
+C	C	C	C	C	T	T	T	T	T	178	CCCCCTTTTT	1253148													
+G	G	T	T	G	T	T	T	T	T	179	GGTTGTTTTT	1257022													
+C	C	C	C	C	T	T	T	T	T	180	CCCCCTTTTT	1260309													
+G	G	A	A	G	G	G	G	G	G	181	GGAAGGGGGG	1262019												A	wMel2_a
+													Wolbachia	19501	A	A	G	A	A	G	Clade_IV				
+													Wolbachia	43974	C	C	C	T	C	T	Clade_V				
+													Wolbachia	81204	G	G	G	A	G	A	Clade_V				
+													Wolbachia	94012	T	T	T	C	T	C	Clade_V				
+													Wolbachia	94633	T	T	T	G	T	G	Clade_V				
+													Wolbachia	130710	C	C	C	T	C	T	Clade_V				
+													Wolbachia	132343	G	G	G	A	G	A	Clade_V				
+													Wolbachia	163082	C	C	C	T	C	T	Clade_V				
+													Wolbachia	199259	G	G	A	G	G	A	Clade_IV				
+													Wolbachia	201745	T	T	T	C	T	C	Clade_V				
+													Wolbachia	237268	A	A	A	G	A	G	Clade_V				
+													Wolbachia	265511	C	C	T	C	C	T	Clade_IV				
+													Wolbachia	266252	C	C	C	T	C	T	Clade_V				
+													Wolbachia	270910	T	T	T	G	T	G	Clade_V				
+													Wolbachia	301562	A	A	A	G	A	G	Clade_V				
+													Wolbachia	315603	C	C	C	T	C	T	Clade_V				
+													Wolbachia	357857	G	G	G	A	G	A	Clade_V				
+													Wolbachia	419061	C	C	C	T	C	T	Clade_V				
+													Wolbachia	422650	C	C	T	C	C	T	Clade_IV				
+													Wolbachia	438970	G	G	G	A	G	A	Clade_V				
+													Wolbachia	452488	C	C	C	A	C	A	Clade_V				
+													Wolbachia	479519	A	A	G	A	A	G	Clade_IV				
+													Wolbachia	489480	C	C	T	C	C	T	Clade_IV				
+													Wolbachia	491550	G	G	A	G	G	A	Clade_IV				
+													Wolbachia	493623	C	C	C	T	C	T	Clade_V				
+													Wolbachia	553855	G	G	A	G	G	A	Clade_IV				
+													Wolbachia	585252	G	G	G	C	G	C	Clade_V				
+													Wolbachia	657244	T	T	T	C	T	C	Clade_V				
+													Wolbachia	659208	G	G	G	A	G	A	Clade_V				
+													Wolbachia	675549	G	G	G	A	G	A	Clade_V				
+													Wolbachia	688376	C	C	C	T	C	T	Clade_V				
+													Wolbachia	758551	T	T	C	T	T	C	Clade_IV				
+													Wolbachia	792762	C	C	C	G	C	G	Clade_V				
+													Wolbachia	806911	C	C	C	A	C	A	Clade_V				
+													Wolbachia	921741	G	G	C	G	G	C	Clade_IV				
+													Wolbachia	929167	T	T	T	C	T	C	Clade_V				
+													Wolbachia	938848	T	T	C	T	T	C	Clade_IV				
+													Wolbachia	973795	T	T	C	T	T	C	Clade_IV				
+													Wolbachia	1023898	C	C	C	T	C	T	Clade_V				
+													Wolbachia	1048715	G	G	G	A	G	A	Clade_V				
+													Wolbachia	1054640	C	C	C	T	C	T	Clade_V				
+													Wolbachia	1071001	A	A	G	A	A	G	Clade_IV				
+													Wolbachia	1091840	T	T	T	A	T	A	Clade_V				
+													Wolbachia	1091841	A	A	A	T	A	T	Clade_V				
+													Wolbachia	1091842	G	G	G	C	G	C	Clade_V				
+													Wolbachia	1091844	A	A	A	C	A	C	Clade_V				
+													Wolbachia	1138214	C	C	T	C	C	T	Clade_IV				
+													Wolbachia	1141015	A	A	A	G	A	G	Clade_V				
+													Wolbachia	1141016	C	C	C	T	C	T	Clade_V				
+													Wolbachia	1141018	C	C	C	T	C	T	Clade_V				
+													Wolbachia	1154396	T	T	T	C	T	C	Clade_V				
+													Wolbachia	1181178	A	A	A	G	A	G	Clade_V				
+													Wolbachia	1182172	G	G	G	C	G	C	Clade_V				
+													Wolbachia	1189872	C	C	C	A	C	A	Clade_V				
+													Wolbachia	1237828	A	A	G	A	A	G	Clade_IV				
+													Wolbachia	1239400	A	A	G	A	A	G	Clade_IV				
